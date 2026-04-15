@@ -12,6 +12,19 @@ dist
 dist-ssr
 *.local
 
+# dependencies
+node_modules/
+
+# next.js build
+.next/
+
+# production
+out/
+
+# misc
+.env
+.env.local
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

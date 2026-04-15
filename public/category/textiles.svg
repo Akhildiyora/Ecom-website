@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#e2e7ff"/>
+  <rect x="80" y="120" width="240" height="180" rx="10" fill="#f8f7ff" stroke="#c2c6d8"/>
+  <path d="M90 140 L320 140" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 160 L320 160" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 180 L320 180" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 200 L320 200" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 220 L320 220" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 240 L320 240" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 260 L320 260" stroke="#eaedff" stroke-width="1"/>
+  <path d="M90 280 L320 280" stroke="#eaedff" stroke-width="1"/>
+  <rect x="100" y="310" width="200" height="40" rx="8" fill="#d0e1fb"/>
+  <ellipse cx="200" cy="360" rx="130" ry="15" fill="#dae2fd"/>
+</svg>

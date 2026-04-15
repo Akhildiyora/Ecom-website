@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#f2f3ff"/>
+  <rect x="80" y="120" width="240" height="200" rx="10" fill="#f8f7ff" stroke="#c2c6d8" stroke-width="2"/>
+  <path d="M80 140 L320 140" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 160 L320 160" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 180 L320 180" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 200 L320 200" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 220 L320 220" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 240 L320 240" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 260 L320 260" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 280 L320 280" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 300 L320 300" stroke="#eaedff" stroke-width="1"/>
+  <path d="M80 320 L320 320" stroke="#eaedff" stroke-width="1"/>
+  <path d="M100 120 Q100 100 120 100" stroke="#c2c6d8" stroke-width="3" fill="none"/>
+  <path d="M300 120 Q300 100 280 100" stroke="#c2c6d8" stroke-width="3" fill="none"/>
+  <path d="M100 320 Q100 340 120 340" stroke="#c2c6d8" stroke-width="3" fill="none"/>
+  <path d="M300 320 Q300 340 280 340" stroke="#c2c6d8" stroke-width="3" fill="none"/>
+</svg>
